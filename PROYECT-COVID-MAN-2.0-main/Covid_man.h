@@ -1,5 +1,5 @@
 #include <allegro.h>
-#include "Enfermo.cpp"
+#include "Enfermo.h"
 class Covid_man : public Personaje{
     private:
     SAMPLE *muerte=NULL;
