@@ -1,4 +1,4 @@
-#include "Pastilla.cpp"
+#include "Pastilla.h"
 class Vacuna : public Comida{
    private:
    BITMAP *vacuna=NULL;//Variable de la imagen del muro;
