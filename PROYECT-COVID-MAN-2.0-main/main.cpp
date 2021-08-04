@@ -1,10 +1,10 @@
 #include <allegro.h>
-#include "Mapa.cpp"
+#include "Mapa.h"
 
 
 int main()
 {
-    allegro_init();//inicia la librería Allegro
+    allegro_init();//inicia la librerÃ­a Allegro
     install_keyboard();//nos permite utilizar las teclas
     install_mouse();//parametros del mouse
     set_color_depth(32);
