@@ -1,7 +1,7 @@
 #include <allegro.h>
-#include "Covid_man.cpp"
-#include "Casa.cpp"
-#include "Vacuna.cpp"
+#include "Covid_man.h"
+#include "Casa.h"
+#include "Vacuna.h"
 #include <iostream>
 #include <cstdlib>
 //buffer y el mapa tienen las mismas dimensiones
